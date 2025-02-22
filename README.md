@@ -40,10 +40,10 @@
 Клиентский интерфейс будет взаимодействовать с серверным приложением посредством HTTP-запросов. Серверное приложение будет взаимодействовать с базой данных для получения и сохранения данных. Все компоненты будут размещены на одном сервере.
 
 ### Схема взаимодействия компонентов
-![Схема взаимодействия](https://github.com/Rais-Ataullov/NetProgTechnologies/blob/main/lab0/img1.png))
+![Схема взаимодействия](https://github.com/Rais-Ataullov/NetProgTechnologies/blob/main/lab0/img1.png)
 
 ### Логическая схема базы данных
-![Логическая схема базы данных](https://github.com/Rais-Ataullov/NetProgTechnologies/blob/main/lab0/img2.png))
+![Логическая схема базы данных](https://github.com/Rais-Ataullov/NetProgTechnologies/blob/main/lab0/img2.png)
 
 ### Сущности
 - **Пользователь:** Хранит информацию о пользователях для входа в систему.
